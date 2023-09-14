@@ -1,0 +1,187 @@
+{
+    "header": {},
+    "home": {
+        "banner": {
+            "heading": "Sell online to </br> 11 Cr+ customers </br> at <span> 0% commission </span>",
+            "description": "Become a Perina’s seller and grow your bussiness acrossn World.",
+            "StartSelling": "Start Selling",
+            "countryCode": "+91",
+            "moPlaceholder": "Enter Your Mobile Number"
+        },
+        "backBtn": "Back",
+        "counter": [{
+                "count": "6 lakh",
+                "countDescreption": "Trust Perina’s to sell </br> online"
+            }, {
+                "count": "11 Crore",
+                "countDescreption": "Customers buying </br> across world"
+            },
+            {
+                "count": "28000",
+                "countDescreption": "Pincode supported </br> for delivery"
+            },
+            {
+                "count": "700",
+                "countDescreption": "Categories to </br> sell online"
+            }
+        ],
+        "Login": {
+            "title": "Login to your Super Admin panel",
+            "emailTitle": "Email Address",
+            "emailPlaceholder": "Enter Email Address",
+            "passwordTitle": "Password",
+            "passwordPlaceholder": "Enter Password",
+            "forgotpassword": "Forgot password",
+            "btnLogin": "Login",
+            "accountTitle": "Don’t have an account?",
+            "linkSignup": "Sign up",
+            "emailvalidation": "Please Enter Email Address"
+        },
+        "ForgotPassword": {
+            "title": "Forgot Password",
+            "emailTitle": "Email Address",
+            "emailPlaceholder": "Enter Email Address",
+            "btnForgot": "Reset Password"
+        },
+        "ResetPassword": {
+            "title": "Reset Password",
+            "passwordTitle": "Password",
+            "passwordPlaceholder": "Enter Password",
+            "ConfirmPassTitle": " Confirm Password",
+            "ConfirmPassPlaceholder": "Enter Confirm Password",
+            "btnReset": "Submit"
+        },
+        "SignUp": {
+            "title": "Welcome to Pernia’s Pop-Up Shop Create your account to <span>Start Selling</span>",
+            "mobileNumber": "Mobile Number",
+            "mobilenoPlaceholder": "Enter Your Mobile Number",
+            "otpTitle": "Enter OTP",
+            "otpPlaceholder": "Enter OTP",
+            "emailTitle": "Email Address",
+            "emailPlaceholder": "Enter Email Address",
+            "passwordTitle": "Password",
+            "passwordPlaceholder": "Enter Password",
+            "ConfirmPassTitle": " Confirm Password",
+            "ConfirmPassPlaceholder": "Enter Confirm Password",
+            "agree": "I accept all the>Terms & Condition </Link> and <Link> Privacy Policy</Link>"
+        }
+    },
+    "footer": {
+        "description": "Sell your products to crores of customers on Pernia’s Pop-Up Shop at 0% commission",
+        "SellonPerniasPopUpShop": "Sell on Pernia’s Pop-Up Shop"
+    },
+    "admin": {
+        "dashboard": {
+            "cardList": [{
+                    "image": "e1",
+                    "title": "Today Order",
+                    "count": "₹300"
+                },
+                {
+                    "image": "e2",
+                    "title": "This Month",
+                    "count": "₹12,596"
+                },
+                {
+                    "image": "e3",
+                    "title": "Total Order",
+                    "count": "₹15,66,839"
+                }
+            ],
+            "ordercardList": [{
+                    "image": "e1",
+                    "title": "Total Order",
+                    "count": "230"
+                },
+                {
+                    "image": "e2",
+                    "title": "Order Pending",
+                    "count": "85"
+                },
+                {
+                    "image": "e3",
+                    "title": "Order Processing",
+                    "count": "123"
+                },
+                {
+                    "image": "e4",
+                    "title": "Order Delivered",
+                    "count": "22"
+                }
+            ],
+            "NewsBoard": "News Board",
+            "RecentPendingOrder": "Recent Pending Order",
+            "NewsBoardList": [{
+                    "posted": "Posted: 20 October, 2022",
+                    "sale": "Diwali Sale: 22th-26th October",
+                    "descreption": "Festival offer Diwali Biggest Sale"
+                },
+                {
+                    "posted": "Posted: 20 October, 2022",
+                    "sale": "Diwali Sale: 22th-26th October",
+                    "descreption": "Festival offer Diwali Biggest Sale"
+                },
+                {
+                    "posted": "Posted: 20 October, 2022",
+                    "sale": "Diwali Sale: 22th-26th October",
+                    "descreption": "Festival offer Diwali Biggest Sale"
+                },
+                {
+                    "posted": "Posted: 20 October, 2022",
+                    "sale": "Diwali Sale: 22th-26th October",
+                    "descreption": "Festival offer Diwali Biggest Sale"
+                },
+                {
+                    "posted": "Posted: 20 October, 2022",
+                    "sale": "Diwali Sale: 22th-26th October",
+                    "descreption": "Festival offer Diwali Biggest Sale"
+                }
+            ]
+        },
+        "returnOrders": {
+            "cardList": [{
+                    "image": "e1",
+                    "title": "Customer Return Rate",
+                    "percentage": "4.0%",
+                    "profit": "0.0%",
+                    "description": "44 Orders returned out of 997 delivered"
+                },
+                {
+                    "image": "e2",
+                    "title": "Courier Return Rate",
+                    "percentage": "26.0%",
+                    "profit": "-13.33%",
+                    "description": "356 RTO orders out of 1356 dispatched"
+                }
+            ]
+        }
+    },
+    "common": {
+        "login": "Login",
+        "StartSelling": "Start Selling",
+
+        "SellOnline": "Sell Online",
+        "Howitworks": "How it works",
+        "Pricing&Commission": "Pricing & Commission",
+        "Shipping&Returns": "Shipping & Returns",
+        "GrowBusiness": "Grow Business",
+        "PerniasPopUpShop": "Pernia’s Pop-Up Shop",
+
+        "Dashboard": "Dashboard",
+        "OrderManagement": "Order Management",
+        "ReturnOrders": "Return Orders",
+        "Inventory": "Inventory",
+        "Payments": "Payments",
+        "CatalogsUpload": "Catalogs Upload",
+        "NewsBoard": "News Board",
+        "Support": "Support",
+        "Settings": "Settings",
+
+        "ProfileSettings": "Profile Settings",
+        "Logout": "Logout",
+
+        "ViewAll": "View All",
+        "AcceptOrder": "Accept Order",
+        "CancelModal": "Are you sure you want to cancel this item?"
+    }
+}
